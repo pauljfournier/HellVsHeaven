@@ -36,7 +36,8 @@ All of them had been implemented, with there powers and specifications.
 ### Angels have to kill all demons
 ![alt text](https://github.com/pauljfournier/HellVsHeaven/blob/main/Screenshots/Screenshot_Angel.jpg?raw=true)
 
-Raphael protect temporarily
+Raphael protect temporarily.
+
 ![alt text](https://github.com/pauljfournier/HellVsHeaven/blob/main/Screenshots/Screenshot_Raphael.jpg?raw=true)
 
 ### Demons 
