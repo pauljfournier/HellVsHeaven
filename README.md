@@ -50,5 +50,5 @@ The king of hell is the only one to know other demons identities
 ### Neutrals
 Due to the neutrals goals been different from the one from Hell or Heaven, multiple players can win during one game.
 
-The creator is not in a good mood, he must kill a third of the player to win.
+The creator is not in a good mood, he must kill a third of the players to win.
 ![alt text](https://github.com/pauljfournier/HellVsHeaven/blob/main/Screenshots/Screenshot_God.jpg?raw=true)
